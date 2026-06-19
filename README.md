@@ -10,96 +10,39 @@ Apenas um entusiasta de tecnologia focado em desenvolvimento de sistemas, infrae
 * ⚙️ Formação técnica em Mecânica, o que me deu uma base forte em lógica, processos estruturados e resolução de problemas complexos.
 * 🚀 Atualmente focado em aprofundar conhecimentos em arquitetura de redes, segurança da informação e desenvolvimento de software.
 
+---
+
+### 💻 Hard Skills & Ferramentas
+
+| Área | Tecnologias e Ferramentas |
+| :--- | :--- |
+| **Linguagens** | C, Python, Bash / Shell Script |
+| **Redes e Segurança** | Protocolos de Rede, Hardening de Sistemas, Análise de Tráfego (Wireshark) |
+| **Ambientes & Ferramentas** | Ambientes Linux/Windows, Ferramentas de Compilação (GCC), Git & GitHub |
+
+<br/>
+
 <p align="left">
-    <a href="https://github.com/PauloVitorTech?tab=repositories">
-        <img 
-            alt="Total de estrelas" 
-            title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/PauloVitorTech?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
-        />
-    </a>
-    <a href="https://github.com/PauloVitorTech?tab=followers">
-        <img 
-            alt="Seguidores" 
-            title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/PauloVitorTech?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
-        />
-    </a>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width="40" title="Linguagem C" alt="C" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="40" title="Linux" alt="Linux" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="40" title="Python" alt="Python" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" width="40" title="Bash/Shell" alt="Bash" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="40" title="Git" alt="Git" />
 </p>
 
 ---
 
-### 🤖 Linguagens e Tecnologias
+### 📊 Estatísticas do GitHub
 
-<img 
-    align="left" 
-    alt="C"
-    title="Linguagem C" 
-    width="35px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Linux" 
-    title="Linux"
-    width="35px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Python" 
-    title="Python"
-    width="35px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Bash" 
-    title="Bash/Shell"
-    width="35px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Wireshark" 
-    title="Wireshark"
-    width="35px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/wireshark/wireshark-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Git" 
-    title="Git"
-    width="35px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
-/>
-
-<br/>
-<br/>
+<p align="center">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=PauloVitorTech&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&locale=pt-br" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PauloVitorTech&layout=compact&theme=tokyonight&langs_count=6&custom_title=Tecnologias" />
+</p>
 
 ---
 
-### 📊 Estatísticas
+### 🤝 Conecte-se Comigo
+Sinta-se à vontade para se conectar, colaborar em projetos ou apenas trocar uma ideia sobre tecnologia!
 
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=PauloVitorTech&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
-
-  <img 
-    align="left" 
-    alt="Top Linguagens" 
-    height="200" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=PauloVitorTech&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=6" 
-  />
-</p>
+* 💼 **LinkedIn:** [linkedin.com/in/paulo-vitor](https://www.linkedin.com/in/paulo-vitor-40a4911b9)
+* ✉️ **E-mail:** [gamerxtvon@gmail.com](mailto:gamerxtvon@gmail.com)
