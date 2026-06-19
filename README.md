@@ -16,7 +16,7 @@ Apenas um entusiasta de tecnologia focado em desenvolvimento de sistemas, infrae
 
 | Área | Tecnologias e Ferramentas |
 | :--- | :--- |
-| **Linguagens** | C, Python, Bash / Shell Script |
+| **Linguagens** | C, HTML, Python, PHP, SQL, NoSQL |
 | **Redes e Segurança** | Protocolos de Rede, Hardening de Sistemas, Análise de Tráfego (Wireshark) |
 | **Ambientes & Ferramentas** | Ambientes Linux/Windows, Ferramentas de Compilação (GCC), Git & GitHub |
 
@@ -24,9 +24,12 @@ Apenas um entusiasta de tecnologia focado em desenvolvimento de sistemas, infrae
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width="40" title="Linguagem C" alt="C" />&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="40" title="Linux" alt="Linux" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="40" title="HTML5" alt="HTML" />&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="40" title="Python" alt="Python" />&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" width="40" title="Bash/Shell" alt="Bash" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" width="40" title="PHP" alt="PHP" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" width="40" title="SQL" alt="SQL" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" width="40" title="NoSQL (MongoDB)" alt="NoSQL" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="40" title="Linux" alt="Linux" />&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="40" title="Git" alt="Git" />
 </p>
 
